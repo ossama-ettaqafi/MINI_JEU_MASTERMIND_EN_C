@@ -19,16 +19,25 @@ Après chaque essai, le programme affiche la réponse en utilisant les symboles 
 
 ## Captures d'écran
 
-![image](https://user-images.githubusercontent.com/119759894/230787611-d0322db6-c310-4947-954b-1041abd677f0.png)
+<img src="https://user-images.githubusercontent.com/119759894/230787611-d0322db6-c310-4947-954b-1041abd677f0.png" width="800"/>
 
-![image](https://user-images.githubusercontent.com/119759894/230787635-47ef8829-86e3-48e2-b45d-80341665a564.png)
+> Le menu principal
 
-![image](https://user-images.githubusercontent.com/119759894/230787657-e3001708-4817-459e-a412-483fa41612f5.png)
+<img src="https://user-images.githubusercontent.com/119759894/230787635-47ef8829-86e3-48e2-b45d-80341665a564.png" width="800"/>
 
-![image](https://user-images.githubusercontent.com/119759894/230787676-83365cba-98ee-4097-8131-4e5f37237dc0.png)
+> Le instruction du jeu (Comment jouer?)
 
-![image](https://user-images.githubusercontent.com/119759894/230787753-992210e1-570e-4717-a0ae-b8d75ea34b6c.png)
+<img src="https://user-images.githubusercontent.com/119759894/230787657-e3001708-4817-459e-a412-483fa41612f5.png" width="800"/>
 
+> Le menu des niveaux
+
+<img src="https://user-images.githubusercontent.com/119759894/230787676-83365cba-98ee-4097-8131-4e5f37237dc0.png" width="800"/>
+
+> Le jeu est commencé
+
+<img src="https://user-images.githubusercontent.com/119759894/230787753-992210e1-570e-4717-a0ae-b8d75ea34b6c.png" width="800"/>
+
+> Le jeu est terminé
 
 ## Comment exécuter
 
