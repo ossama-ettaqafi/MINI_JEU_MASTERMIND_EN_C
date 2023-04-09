@@ -9,7 +9,10 @@ Au lancement du programme, le joueur est accueilli par le menu principal, qui of
 1.  Jouer : permet de commencer une partie de Mastermind
 2.  Comment jouer ? : fournit des instructions sur comment jouer au jeu
 3.  Le son : active ou désactive le son de l'application
-4.  Sortir : ferme l'application Si l'option "Jouer" est sélectionnée, le joueur peut choisir le niveau de difficulté, soit niveau 1 ou niveau 2. Dans le niveau 1, les joueurs ne peuvent pas utiliser des chiffres répétés. Dans le niveau 2, les joueurs peuvent utiliser un chiffre jusqu'à deux fois. Le joueur 1 entre une combinaison secrète de 5 chiffres et le joueur 2 doit la deviner en un nombre limité d'essais. Après chaque essai, le programme affiche la réponse en utilisant les symboles suivants :
+4.  Sortir : ferme l'application Si l'option "Jouer" est sélectionnée, le joueur peut choisir le niveau de difficulté, soit niveau 1 ou niveau 2. Dans le niveau 1, les joueurs ne peuvent pas utiliser des chiffres répétés. Dans le niveau 2, les joueurs peuvent utiliser un chiffre jusqu'à deux fois. Le joueur 1 entre une combinaison secrète de 5 chiffres et le joueur 2 doit la deviner en un nombre limité d'essais.
+
+Après chaque essai, le programme affiche la réponse en utilisant les symboles suivants :
+
 -   [+] : bien placé
 -   [-] : mal placé
 -   [&nbsp;&nbsp;] : n'existe pas Après 10 essais, le joueur 2 peut utiliser l'option Joker pour afficher un chiffre de la combinaison secrète du joueur 1. Toutefois, cela entraîne une pénalité de 3 essais.
