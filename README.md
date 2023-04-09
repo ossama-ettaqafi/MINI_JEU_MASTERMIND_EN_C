@@ -19,25 +19,40 @@ Après chaque essai, le programme affiche la réponse en utilisant les symboles 
 
 ## Captures d'écran
 
-<img src="https://user-images.githubusercontent.com/119759894/230787611-d0322db6-c310-4947-954b-1041abd677f0.png" width="800"/>
+### Le menu principal
+<img src="https://user-images.githubusercontent.com/119759894/230787611-d0322db6-c310-4947-954b-1041abd677f0.png" width="500"/>
 
-> Le menu principal
+> Capture d'écran 1
 
-<img src="https://user-images.githubusercontent.com/119759894/230787635-47ef8829-86e3-48e2-b45d-80341665a564.png" width="800"/>
+Image montrant le menu principal de l'application. Le joueur peut choisir entre les options de jouer, obtenir des instructions sur comment jouer, activer/désactiver le son de l'application, ou quitter le jeu.
 
-> Le instruction du jeu (Comment jouer?)
+### Les instructions du jeu (Comment jouer?)
+<img src="https://user-images.githubusercontent.com/119759894/230787635-47ef8829-86e3-48e2-b45d-80341665a564.png" width="500"/>
 
-<img src="https://user-images.githubusercontent.com/119759894/230787657-e3001708-4817-459e-a412-483fa41612f5.png" width="800"/>
+> Capture d'écran 2
 
-> Le menu des niveaux
+Image montrant les instructions du jeu pour aider les joueurs à comprendre comment jouer à Mastermind. Les règles du jeu et les symboles utilisés pour afficher les réponses sont expliqués.
 
-<img src="https://user-images.githubusercontent.com/119759894/230787676-83365cba-98ee-4097-8131-4e5f37237dc0.png" width="800"/>
+### Le menu des niveaux
+<img src="https://user-images.githubusercontent.com/119759894/230787657-e3001708-4817-459e-a412-483fa41612f5.png" width="500"/>
 
-> Le jeu est commencé
+> Capture d'écran 3
 
-<img src="https://user-images.githubusercontent.com/119759894/230787753-992210e1-570e-4717-a0ae-b8d75ea34b6c.png" width="800"/>
+Image montrant les niveaux de difficulté disponibles pour le joueur. Le niveau 1 interdit l'utilisation de chiffres répétés, tandis que le niveau 2 permet l'utilisation d'un chiffre jusqu'à deux fois.
 
-> Le jeu est terminé
+### Le jeu est commencé
+<img src="https://user-images.githubusercontent.com/119759894/230787676-83365cba-98ee-4097-8131-4e5f37237dc0.png" width="500"/>
+
+> Capture d'écran 4
+
+Image montrant le début d'une partie de Mastermind. Le joueur 2 a 10 essais pour deviner la combinaison secrète choisie par le joueur 1. Les chiffres entrés par le joueur 2 sont comparés avec la combinaison secrète, et les réponses sont affichées.
+
+### Le jeu est terminé :
+<img src="https://user-images.githubusercontent.com/119759894/230787753-992210e1-570e-4717-a0ae-b8d75ea34b6c.png" width="500"/>
+
+> Capture d'écran 5
+
+Image montrant la fin d'une partie de Mastermind. Le joueur 2 a réussi à deviner la combinaison secrète et a gagné la partie. Le nombre d'essais utilisés est affiché, ainsi que la possibilité de rejouer ou de retourner au menu principal.
 
 ## Comment exécuter
 
