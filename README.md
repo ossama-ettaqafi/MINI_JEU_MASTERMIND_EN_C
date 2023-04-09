@@ -17,6 +17,19 @@ Après chaque essai, le programme affiche la réponse en utilisant les symboles 
 -   [-] : mal placé
 -   [&nbsp;&nbsp;] : n'existe pas Après 10 essais, le joueur 2 peut utiliser l'option Joker pour afficher un chiffre de la combinaison secrète du joueur 1. Toutefois, cela entraîne une pénalité de 3 essais.
 
+## Captures d'écran
+
+![image](https://user-images.githubusercontent.com/119759894/230787611-d0322db6-c310-4947-954b-1041abd677f0.png)
+
+![image](https://user-images.githubusercontent.com/119759894/230787635-47ef8829-86e3-48e2-b45d-80341665a564.png)
+
+![image](https://user-images.githubusercontent.com/119759894/230787657-e3001708-4817-459e-a412-483fa41612f5.png)
+
+![image](https://user-images.githubusercontent.com/119759894/230787676-83365cba-98ee-4097-8131-4e5f37237dc0.png)
+
+![image](https://user-images.githubusercontent.com/119759894/230787753-992210e1-570e-4717-a0ae-b8d75ea34b6c.png)
+
+
 ## Comment exécuter
 
 Le programme peut être exécuté sur un terminal ou une invite de commande. Il a été développé et testé sur Windows.
