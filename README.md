@@ -19,9 +19,9 @@ Au lancement du programme, le joueur est accueilli par le menu principal, qui of
 Le programme peut être exécuté sur un terminal ou une invite de commande. Il a été développé et testé sur Windows.
 
 1.  Ouvrir une invite de commande ou un terminal
-2.  Aller dans le répertoire où se trouve le fichier Mastermind.c
-3.  Compiler le programme en utilisant la commande gcc Mastermind.c -o Mastermind
-4.  Exécuter le programme en utilisant la commande ./Mastermind
+2.  Aller dans le répertoire où se trouve le fichier `Mastermind.c`
+3.  Compiler le programme en utilisant la commande `gcc Mastermind.c -o Mastermind`
+4.  Exécuter le programme en utilisant la commande `./Mastermind`
 
 ## Améliorations futures
 
