@@ -69,7 +69,7 @@ Nous avons prévu les améliorations suivantes pour les versions futures de Jeu 
 
 -   Ajout de niveaux de difficulté supplémentaires
 -   Ajout d'une fonctionnalité pour enregistrer les scores et les comparer avec
--   Ajout d'Anglais (add English)
+-   Préparation d'une version anglaise
 
 ## À propos
 
