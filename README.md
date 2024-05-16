@@ -1,4 +1,4 @@
-## Jeu de Mastermind en C
+## Présentation du jeu Mastermind en C
 
 Le Jeu de Mastermind est une application console développée en langage C qui simule le jeu de société Mastermind. Dans ce jeu, un joueur doit deviner une combinaison de chiffres en un nombre limité d'essais.
 
@@ -23,23 +23,23 @@ Après 10 essais, le joueur 2 peut utiliser l'option Joker pour obtenir un chiff
 
 **2. Captures d'Écran**
 
-**2.1 Menu Principal**
+Menu Principal
 
 <img src="https://user-images.githubusercontent.com/119759894/230787611-d0322db6-c310-4947-954b-1041abd677f0.png" width="500"/>
 
-**2.2 Instructions du Jeu**
+Instructions du jeu
 
 <img src="https://user-images.githubusercontent.com/119759894/230787635-47ef8829-86e3-48e2-b45d-80341665a564.png" width="500"/>
 
-**2.3 Niveaux de Difficulté**
+Niveaux de Difficulté
 
 <img src="https://user-images.githubusercontent.com/119759894/230787657-e3001708-4817-459e-a412-483fa41612f5.png" width="500"/>
 
-**2.4 Début de la Partie**
+Début de la Partie
 
 <img src="https://user-images.githubusercontent.com/119759894/230787676-83365cba-98ee-4097-8131-4e5f37237dc0.png" width="500"/>
 
-**2.5 Fin de la Partie**
+Fin de la Partie
 
 <img src="https://user-images.githubusercontent.com/119759894/230787753-992210e1-570e-4717-a0ae-b8d75ea34b6c.png" width="500"/>
 
