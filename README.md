@@ -1,8 +1,16 @@
-## Présentation du jeu Mastermind en C
+# Jeu Mastermind en C
 
-Le Jeu de Mastermind est une application console développée en langage C qui simule le jeu de société Mastermind. Dans ce jeu, un joueur doit deviner une combinaison de chiffres en un nombre limité d'essais.
+Le Jeu Mastermind est une application console développée en langage C qui simule le jeu de société Mastermind. Dans ce jeu, un joueur doit deviner une combinaison de chiffres en un nombre limité d'essais.
 
-**1. Comment Jouer**
+## Table des Matières
+
+1. [Comment Jouer](#comment-jouer)
+2. [Captures d'Écran](#captures-décran)
+3. [Exécution](#exécution)
+4. [Améliorations Futures](#améliorations-futures)
+5. [Crédits](#crédits)
+
+## Comment Jouer <a name="comment-jouer"></a>
 
 Au lancement du programme, le joueur est accueilli par un menu principal offrant plusieurs options :
 
@@ -21,29 +29,24 @@ Après chaque essai, le programme affiche la réponse en utilisant les symboles 
 
 Après 10 essais, le joueur 2 peut utiliser l'option Joker pour obtenir un chiffre de la combinaison secrète du joueur 1, mais cela entraîne une pénalité de 3 essais.
 
-**2. Captures d'Écran**
+## Captures d'Écran <a name="captures-décran"></a>
 
-Menu Principal
+### Menu Principal
+![Menu Principal](https://user-images.githubusercontent.com/119759894/230787611-d0322db6-c310-4947-954b-1041abd677f0.png)
 
-<img src="https://user-images.githubusercontent.com/119759894/230787611-d0322db6-c310-4947-954b-1041abd677f0.png" width="500"/>
+### Instructions du jeu
+![Instructions](https://user-images.githubusercontent.com/119759894/230787635-47ef8829-86e3-48e2-b45d-80341665a564.png)
 
-Instructions du jeu
+### Niveaux de Difficulté
+![Niveaux de Difficulté](https://user-images.githubusercontent.com/119759894/230787657-e30017-4817-459e-a412-483fa41612f5.png)
 
-<img src="https://user-images.githubusercontent.com/119759894/230787635-47ef8829-86e3-48e2-b45d-80341665a564.png" width="500"/>
+### Début de la Partie
+![Début de la Partie](https://user-images.githubusercontent.com/119759894/230787676-83365cba-98ee-4097-8131-4e5f37237dc0.png)
 
-Niveaux de Difficulté
+### Fin de la Partie
+![Fin de la Partie](https://user-images.githubusercontent.com/119759894/230787753-992210e1-570e-4717-a0ae-b8d75ea34b6c.png)
 
-<img src="https://user-images.githubusercontent.com/119759894/230787657-e3001708-4817-459e-a412-483fa41612f5.png" width="500"/>
-
-Début de la Partie
-
-<img src="https://user-images.githubusercontent.com/119759894/230787676-83365cba-98ee-4097-8131-4e5f37237dc0.png" width="500"/>
-
-Fin de la Partie
-
-<img src="https://user-images.githubusercontent.com/119759894/230787753-992210e1-570e-4717-a0ae-b8d75ea34b6c.png" width="500"/>
-
-**3. Exécution**
+## Exécution <a name="exécution"></a>
 
 Le programme peut être exécuté sur un terminal ou une invite de commande. Il a été développé et testé sur Windows.
 
@@ -52,7 +55,7 @@ Le programme peut être exécuté sur un terminal ou une invite de commande. Il 
 3. Compiler le programme avec la commande `gcc Mastermind.c -o Mastermind`.
 4. Exécuter le programme avec la commande `./Mastermind`.
 
-**4. Améliorations Futures**
+## Améliorations Futures <a name="améliorations-futures"></a>
 
 Voici quelques améliorations envisagées pour les prochaines versions du Jeu de Mastermind :
 
@@ -60,5 +63,6 @@ Voici quelques améliorations envisagées pour les prochaines versions du Jeu de
 - Intégration d'une fonctionnalité pour enregistrer et comparer les scores.
 - Traduction du jeu en anglais.
 
-**Crédits** <br>
-*Ce programme est libre de droit et peut être utilisé ou modifié à des fins non commerciales.*
+## Crédits <a name="crédits"></a>
+
+Ce programme est libre de droit et peut être utilisé ou modifié à des fins non commerciales.
