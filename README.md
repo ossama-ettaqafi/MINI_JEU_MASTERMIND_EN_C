@@ -4,11 +4,11 @@ Le Jeu Mastermind est une application console développée en langage C qui simu
 
 ## Table des Matières
 
-1. [Comment Jouer](#comment-jouer)
-2. [Captures d'Écran](#captures-décran)
-3. [Exécution](#exécution)
-4. [Améliorations Futures](#améliorations-futures)
-5. [Crédits](#crédits)
+- [Comment Jouer](#comment-jouer)
+- [Captures d'Écran](#captures-décran)
+- [Exécution](#exécution)
+- [Améliorations Futures](#améliorations-futures)
+- [Crédits](#crédits)
 
 ## Comment Jouer <a name="comment-jouer"></a>
 
