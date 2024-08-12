@@ -38,7 +38,7 @@ Après 10 essais, le joueur 2 peut utiliser l'option Joker pour obtenir un chiff
 ![Instructions](https://user-images.githubusercontent.com/119759894/230787635-47ef8829-86e3-48e2-b45d-80341665a564.png)
 
 ### Niveaux de Difficulté
-![Niveaux de Difficulté](https://user-images.githubusercontent.com/119759894/230787657-e30017-4817-459e-a412-483fa41612f5.png)
+![Screenshot 2024-08-12 142728](https://github.com/user-attachments/assets/b738c3e8-f637-400c-b802-ad7893ec8089)
 
 ### Début de la Partie
 ![Début de la Partie](https://user-images.githubusercontent.com/119759894/230787676-83365cba-98ee-4097-8131-4e5f37237dc0.png)
