@@ -78,5 +78,3 @@ gcc Mastermind.c -o Mastermind
 ## 👥 Crédits
 
 Ce projet est open source et peut être utilisé ou modifié à des fins **non commerciales**.
-
-💡 *N'hésitez pas à proposer des améliorations ou à signaler des bugs via les issues du dépôt GitHub.*
